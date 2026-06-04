@@ -6,19 +6,19 @@ pydantic==2.5.3
 # ML core
 numpy==2.1.0
 pandas==2.2.3
-scikit-learn==1.4.0
+scikit-learn==1.5.2
 joblib==1.3.2
 
 # Image analysis
 opencv-python-headless==4.9.0.80
-Pillow==10.2.0
-tensorflow==2.15.0
-tensorflow-hub==0.15.0
+Pillow==10.3.0
+tensorflow==2.16.2
+tensorflow-hub==0.16.1
 
 # NLP
 transformers==4.37.0
-torch==2.1.2
-sentencepiece==0.1.99
+torch==2.2.2
+sentencepiece==0.2.0
 
 # Utilities
 python-dotenv==1.0.0
