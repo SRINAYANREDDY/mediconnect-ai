@@ -17,7 +17,7 @@ tensorflow-hub==0.16.1
 
 # NLP
 transformers==4.37.0
-torch==2.2.2
+torch==2.5.0
 sentencepiece==0.2.0
 
 # Utilities
